@@ -1,0 +1,8 @@
+PROJEKT NEUER KAMP – VERSION 2 (KORRIGIERT)
+
+1. ZIP vollständig entpacken (Rechtsklick > Alle extrahieren).
+2. Im entpackten Ordner index.html öffnen.
+3. Wichtig: index.html und style.css müssen im GLEICHEN Ordner liegen; assets muss ebenfalls dort liegen.
+4. Falls die Seite ohne Design erscheint: Prüfen, ob style.css direkt neben index.html liegt; Browser mit Strg+F5 neu laden.
+
+Die ZIP-Datei enthält alle nötigen Dateien. Nicht nur die HTML-Dateien verschieben.
